@@ -1,6 +1,14 @@
 # EmberJS-Router-Wildcard-Globbing-Routes
 Wildcard routes are used for matching the multiple URL segments.
 
+Run these commands.
+
+ember generate route dynamic-segment
+
+and 
+
+ember generate route dynamic-segment1
+
 The below example specifies the wildcard routes with multiple URL segments. Open the file created under app/templates/. Here, we have created the file as dynamic-segment.hbs and dynamic-segment1.hbs with the below code −
 
 dynamic-segment.hbs
